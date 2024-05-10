@@ -1,0 +1,8 @@
+.DS_Store
+*.swp
+*.log
+
+/sites-available/*
+!/sites-available/.gitkeep
+/sites-enabled/*
+!/sites-enabled/.gitkeep
